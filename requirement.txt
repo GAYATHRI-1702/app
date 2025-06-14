@@ -1,2 +1,4 @@
+# requirements.txt
 streamlit
 openai
+# Add any other libraries your app uses, one per line
