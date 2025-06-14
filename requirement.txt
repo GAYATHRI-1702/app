@@ -2,3 +2,6 @@
 streamlit
 openai
 # Add any other libraries your app uses, one per line
+git add requirements.txt app.py # Add any other changed files
+git commit -m "Add openai to requirements.txt for deployment"
+git push origin main # Or your branch name, e.g., 'master'
